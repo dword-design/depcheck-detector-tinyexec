@@ -1,3 +1,10 @@
+# 1.0.0 (2025-05-28)
+
+
+### Features
+
+* init ([dcd649e](https://github.com/dword-design/depcheck-detector-tinyexec/commit/dcd649e3d7c6f954d50255d94ea96b141a275834))
+
 # [4.0.0](https://github.com/dword-design/depcheck-detector-execa/compare/v3.0.29...v4.0.0) (2024-07-28)
 
 

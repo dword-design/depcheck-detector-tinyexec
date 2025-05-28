@@ -1,6 +1,6 @@
 {
   "name": "depcheck-detector-tinyexec",
-  "version": "4.0.0",
+  "version": "1.0.0",
   "description": "Detector for depcheck that finds dependencies in tinyexec calls.",
   "repository": "dword-design/depcheck-detector-tinyexec",
   "funding": "https://github.com/sponsors/dword-design",
